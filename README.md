@@ -1,4 +1,4 @@
-# Project-3280
+# Project-3280 Personal-PC-selector
 ## start condition
 1. In order to start this project, please start the mysql service before starting.
 2. Use the composer install command to get the vendor folder.
